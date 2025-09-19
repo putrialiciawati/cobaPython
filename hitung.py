@@ -1,6 +1,8 @@
-#alo put
-# hitung.py
-
-def luas_segitiga(alas, tinggi):
-    """Menghitung luas segitiga"""
-    return 0.5 * alas * tinggi
+void f() {
+    boolean done = false;
+    while (!done) {
+        if (remaining() <= 0) {
+            done = true;
+        }
+    }
+}
