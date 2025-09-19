@@ -1,8 +1,3 @@
-void f() {
-    boolean done = false;
-    while (!done) {
-        if (remaining() <= 0) {
-            done = true;
-        }
-    }
-}
+class StringManipulator:
+    def balikkan_string(self, teks: str) -> str:
+        return teks[::-1]
