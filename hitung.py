@@ -1,4 +1,5 @@
-alo put# hitung.py
+#alo put
+# hitung.py
 
 def luas_segitiga(alas, tinggi):
     """Menghitung luas segitiga"""
